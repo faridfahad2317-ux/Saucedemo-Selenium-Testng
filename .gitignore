@@ -1,0 +1,17 @@
+# Maven target directory
+target/
+*.class
+
+# IntelliJ IDEA workspace files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# System / OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs & Report outputs
+*.log
+test-output/
